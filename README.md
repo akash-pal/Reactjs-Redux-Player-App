@@ -2,6 +2,9 @@
 
 Developing a simple React application to manage the players of a Cricket Team. 
 
+# Live
+https://akash-player-app.herokuapp.com/
+
 It has the following screens:
 <ul>
      <li>List screen: Show a list of all the players. Show edit and delete icons with each players.</li>
